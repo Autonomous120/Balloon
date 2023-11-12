@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
