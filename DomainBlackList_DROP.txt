@@ -1,1 +1,2 @@
 DOMAIN,waapdg.jd.com
+DOMAIN,hmma.baidu.com
