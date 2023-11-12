@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.com
 DOMAIN,time.apple.com
+DOMAIN-SUFFIX,ui.com
