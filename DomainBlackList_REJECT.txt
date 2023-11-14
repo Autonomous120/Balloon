@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,sandai.com
 DOMAIN,guanjia.baidu.com
 DOMAIN-SUFFIX,shoujiweishi.com
