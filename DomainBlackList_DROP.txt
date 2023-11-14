@@ -4,3 +4,4 @@ DOMAIN,yun-hl.3g.qq.com
 DOMAIN,up-hl.3g.qq.com
 DOMAIN,wspeed.qq.com
 DOMAIN,ios.rqd.qq.com
+DOMAIN,hmma.baidu.com
