@@ -2,7 +2,6 @@ DOMAIN,simba.taobao.com
 DOMAIN,s.click.taobao.com
 DOMAIN-SUFFIX,duomai.com
 DOMAIN,trace.qq.com
-DOMAIN-SUFFIX,xmeye.net
 DOMAIN-SUFFIX,youzan.com
 DOMAIN,vueh5.dsmxp.com
 DOMAIN,image.dsmxp.com
