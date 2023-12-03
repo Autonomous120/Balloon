@@ -5,6 +5,8 @@ DOMAIN,trace.qq.com
 DOMAIN-SUFFIX,youzan.com
 DOMAIN,vueh5.dsmxp.com
 DOMAIN,image.dsmxp.com
+DOMAIN-SUFFIX,secu100.net
+DOMAIN-SUFFIX,aiotsecu.com
 DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,snssdk.com
