@@ -4,5 +4,3 @@ DOMAIN,time.apple.com
 DOMAIN,gdmf.apple.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN,weather-data.apple.com
-DOMAIN-SUFFIX,emptyus.com
-DOMAIN-SUFFIX,emptyun.com
