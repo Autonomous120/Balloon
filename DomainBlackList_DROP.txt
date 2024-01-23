@@ -1,4 +1,3 @@
-DOMAIN,waapdg.jd.com
 DOMAIN,app.chat.xiaomi.net
 DOMAIN,yun-hl.3g.qq.com
 DOMAIN,up-hl.3g.qq.com
