@@ -1,3 +1,9 @@
+DOMAIN,shurufa.baidu.com
+DOMAIN,shurufa.sogou.com
+DOMAIN,pinyin.sogou.com
+DOMAIN,z.weixin.qq.com
+DOMAIN,shurufa.qq.com
+DOMAIN,qq.pinyin.cn
 DOMAIN,simba.taobao.com
 DOMAIN,s.click.taobao.com
 DOMAIN-SUFFIX,xjietiao.com
