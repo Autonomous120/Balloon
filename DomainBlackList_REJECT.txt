@@ -114,6 +114,13 @@ DOMAIN,gamevip.qq.com
 DOMAIN,codol.qq.com
 DOMAIN-SUFFIX,gjfzpt.com
 DOMAIN-SUFFIX,bbums.com
+DOMAIN-SUFFIX,bjca.cn
+DOMAIN,gdca.com.cn
+DOMAIN,itrus.com.cn
+DOMAIN-SUFFIX,sheca.com
+DOMAIN,api.installer.xiaomi.com
+DOMAIN,sec.miui.com
+DOMAIN-SUFFIX,avlyun.com
 DOMAIN,api-payment.mihoyo.com
 DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN,uspider.yuanshen.com
@@ -264,3 +271,4 @@ DOMAIN-SUFFIX,wiz.cn
 DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,ladydaily.com
+DOMAIN-SUFFIX,bitwarden.pro
