@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.com
-DOMAIN,time.apple.com
-DOMAIN,gdmf.apple.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,ui.com
-DOMAIN,weather-data.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
