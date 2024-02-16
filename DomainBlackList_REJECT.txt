@@ -1,8 +1,8 @@
-DOMAIN,shurufa.baidu.com
-DOMAIN,z.weixin.qq.com
+DOMAIN-SUFFIX,shurufa.baidu.com
+DOMAIN-SUFFIX,z.weixin.qq.com
 DOMAIN,shurufa.qq.com
 DOMAIN,qq.pinyin.cn
-DOMAIN,simba.taobao.com
+DOMAIN-SUFFIX,simba.taobao.com
 DOMAIN,s.click.taobao.com
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,duomai.com
@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,360totalsecurity.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360anquan.com
 DOMAIN-SUFFIX,360aqws.com
-DOMAIN,hao.qq.com
+DOMAIN-SUFFIX,hao.qq.com
 DOMAIN,qzone.qq.com
 DOMAIN,stock.qq.com
 DOMAIN,connect.qq.com
@@ -164,7 +164,7 @@ DOMAIN-SUFFIX,520haowan.com
 DOMAIN-SUFFIX,008sy.com
 DOMAIN-SUFFIX,yw515.com
 DOMAIN-SUFFIX,huanye666.com
-DOMAIN,hnu.net.cn
+DOMAIN-SUFFIX,hnu.net.cn
 DOMAIN-SUFFIX,4fmem.com
 DOMAIN-SUFFIX,27sy.com
 DOMAIN-SUFFIX,725y.com
@@ -210,15 +210,15 @@ DOMAIN-SUFFIX,webshowu.com
 DOMAIN-SUFFIX,newhua.com
 DOMAIN-SUFFIX,birdpaper.cn
 DOMAIN-SUFFIX,ludashi.com
-DOMAIN,top.baidu.com
-DOMAIN,as.baidu.com
-DOMAIN,sjh.baidu.com
-DOMAIN,zhuomian.baidu.com
-DOMAIN,author.baidu.com
+DOMAIN-SUFFIX,top.baidu.com
+DOMAIN-SUFFIX,as.baidu.com
+DOMAIN-SUFFIX,sjh.baidu.com
+DOMAIN-SUFFIX,zhuomian.baidu.com
+DOMAIN-SUFFIX,author.baidu.com
 DOMAIN-SUFFIX,so.cn
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,haosou.com
-DOMAIN,wps.udesk.cn
+DOMAIN-SUFFIX,wps.udesk.cn
 DOMAIN-SUFFIX,wifi.com
 DOMAIN-SUFFIX,lianwifi.com
 DOMAIN-SUFFIX,114.cn
@@ -254,7 +254,7 @@ DOMAIN-SUFFIX,wejianzhan.com
 DOMAIN-SUFFIX,yule61.com
 DOMAIN-SUFFIX,7654.com
 DOMAIN-SUFFIX,shanhutech.com
-DOMAIN,c-girl.com.cn
+DOMAIN-SUFFIX,c-girl.com.cn
 DOMAIN-SUFFIX,manjaro.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,gz-data.com
@@ -264,7 +264,7 @@ DOMAIN-SUFFIX,emar.com
 DOMAIN-SUFFIX,onemob.com
 DOMAIN-SUFFIX,reyun.com
 DOMAIN-SUFFIX,71360.com
-DOMAIN,zhihuiyun.net.cn
+DOMAIN-SUFFIX,zhihuiyun.net.cn
 DOMAIN-SUFFIX,chance-ad.com
 DOMAIN-SUFFIX,nequal.com
 DOMAIN-SUFFIX,n1q.cn
@@ -278,3 +278,4 @@ DOMAIN-SUFFIX,ladydaily.com
 DOMAIN-SUFFIX,bitwarden.pro
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,adtime.com
+DOMAIN-SUFFIX,weidai.com.cn
