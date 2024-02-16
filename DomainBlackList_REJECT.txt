@@ -279,3 +279,8 @@ DOMAIN-SUFFIX,bitwarden.pro
 DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,adtime.com
 DOMAIN-SUFFIX,weidai.com.cn
+DOMAIN-SUFFIX,duxiaoman.com
+DOMAIN-SUFFIX,szlddb.com
+DOMAIN-SUFFIX,renrendai.com
+DOMAIN-SUFFIX,antfortune.com
+DOMAIN-SUFFIX,antgroup.com
