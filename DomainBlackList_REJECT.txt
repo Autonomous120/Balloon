@@ -276,3 +276,5 @@ DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,ladydaily.com
 DOMAIN-SUFFIX,bitwarden.pro
+DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,adtime.com
