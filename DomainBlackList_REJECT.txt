@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,secu100.net
 DOMAIN-SUFFIX,aiotsecu.com
 DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,amemv.com
