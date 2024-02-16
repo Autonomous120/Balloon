@@ -209,6 +209,7 @@ DOMAIN-SUFFIX,antso.com
 DOMAIN-SUFFIX,webshowu.com
 DOMAIN-SUFFIX,newhua.com
 DOMAIN-SUFFIX,birdpaper.cn
+DOMAIN-SUFFIX,ludashi.com
 DOMAIN,top.baidu.com
 DOMAIN,as.baidu.com
 DOMAIN,sjh.baidu.com
