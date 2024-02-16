@@ -1,8 +1,8 @@
-DOMAIN,app.chat.xiaomi.net
-DOMAIN,yun-hl.3g.qq.com
-DOMAIN,up-hl.3g.qq.com
-DOMAIN,wspeed.qq.com
-DOMAIN,ios.rqd.qq.com
-DOMAIN,hmma.baidu.com
-DOMAIN,tcbox.baidu.com
+DOMAIN-SUFFIX,app.chat.xiaomi.net
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
+DOMAIN-SUFFIX,up-hl.3g.qq.com
+DOMAIN-SUFFIX,wspeed.qq.com
+DOMAIN-SUFFIX,ios.rqd.qq.com
+DOMAIN-SUFFIX,hmma.baidu.com
+DOMAIN-SUFFIX,tcbox.baidu.com
 DOMAIN-SUFFIX,xmeye.net
