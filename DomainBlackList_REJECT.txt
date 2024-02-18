@@ -284,3 +284,4 @@ DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,immomo.com
