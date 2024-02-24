@@ -287,3 +287,4 @@ DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup.com
 DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,51khs.com
