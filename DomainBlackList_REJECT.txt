@@ -280,6 +280,8 @@ DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,adtime.com
 DOMAIN-SUFFIX,weidai.com.cn
 DOMAIN-SUFFIX,duxiaoman.com
+DOMAIN-SUFFIX,dxmpay.com
+DOMAIN-SUFFIX,duxiaomanfintech.com
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,ppdai.com
