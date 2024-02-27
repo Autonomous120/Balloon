@@ -282,6 +282,13 @@ DOMAIN-SUFFIX,weidai.com.cn
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,duxiaomanfintech.com
+DOMAIN-SUFFIX,e.baidu.com
+DOMAIN-SUFFIX,yingxiao.baidu.com
+DOMAIN-SUFFIX,activity.baidu.com
+DOMAIN-SUFFIX,minipro.baidu.com
+DOMAIN-SUFFIX,miaowu.baidu.com
+DOMAIN-SUFFIX,gamecenter.baidu.com
+DOMAIN-SUFFIX,gameplus-platform.cdn.bcebos.com
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,ppdai.com
