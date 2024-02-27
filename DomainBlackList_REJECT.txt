@@ -289,6 +289,9 @@ DOMAIN-SUFFIX,minipro.baidu.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,gamecenter.baidu.com
 DOMAIN-SUFFIX,gameplus-platform.cdn.bcebos.com
+DOMAIN-SUFFIX,wan.baidu.com
+DOMAIN-SUFFIX,shouyou.baidu.com
+DOMAIN-SUFFIX,mobile.baidu.com
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,ppdai.com
