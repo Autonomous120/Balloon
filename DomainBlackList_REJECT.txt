@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,srf.baidu.com
 DOMAIN-SUFFIX,shurufa.baidu.com
 DOMAIN-SUFFIX,z.weixin.qq.com
 DOMAIN-SUFFIX,shurufa.qq.com
@@ -285,6 +286,7 @@ DOMAIN-SUFFIX,duxiaomanfintech.com
 DOMAIN-SUFFIX,e.baidu.com
 DOMAIN-SUFFIX,yingxiao.baidu.com
 DOMAIN-SUFFIX,activity.baidu.com
+DOMAIN-SUFFIX,cdp.baidu.com
 DOMAIN-SUFFIX,minipro.baidu.com
 DOMAIN-SUFFIX,miaowu.baidu.com
 DOMAIN-SUFFIX,gamecenter.baidu.com
@@ -292,6 +294,8 @@ DOMAIN-SUFFIX,gameplus-platform.cdn.bcebos.com
 DOMAIN-SUFFIX,wan.baidu.com
 DOMAIN-SUFFIX,shouyou.baidu.com
 DOMAIN-SUFFIX,mobile.baidu.com
+DOMAIN-SUFFIX,shouji.baidu.com
+DOMAIN-SUFFIX,juejin.baidu.com
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,ppdai.com
