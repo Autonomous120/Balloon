@@ -35,8 +35,7 @@ DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,paydxm.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
-URL-REGEX,.*tiebaads.*
-URL-REGEX,.*dashengVideo.*
+URL-REGEX,https?://[^/]+/.*tiebaads.*
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-SUFFIX,shoujiweishi.com
