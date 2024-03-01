@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,myzhiniu.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,baizhanlive.com
+DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-SUFFIX,shoujiweishi.com
