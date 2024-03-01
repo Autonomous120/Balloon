@@ -1,3 +1,1 @@
-DOMAIN-SUFFIX,synology.cn
-DOMAIN-SUFFIX,time.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
+GEO-IP,cn
