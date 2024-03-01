@@ -35,7 +35,6 @@ DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,paydxm.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
-DOMAIN-KEYWORD,tiebaads
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-SUFFIX,shoujiweishi.com
