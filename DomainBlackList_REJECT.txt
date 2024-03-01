@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,juejin.baidu.com
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-SUFFIX,renrendai.com
 DOMAIN-SUFFIX,ppdai.com
+DOMAIN-SUFFIX,1qianbao.com
 DOMAIN-SUFFIX,jr.jd.com
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-SUFFIX,oppomobile.com
