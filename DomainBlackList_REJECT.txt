@@ -302,8 +302,10 @@ DOMAIN-SUFFIX,juejin.baidu.com
 DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
 DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
-URL-REGEX,^https?://[^/]+/.*tiebaads.*
-URL-REGEX,^https?://[^/]+/.*dashengVideo.*
+URL-REGEX,^https?://[^/]+/.*\/tiebaads\/.*
+URL-REGEX,^https?://[^/]+/.*\/livefeed\/.*
+URL-REGEX,^https?://[^/]+/.*\/forumGuide/?$
+URL-REGEX,^https?://[^/]+/.*\/dashengVideo\/.*
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
