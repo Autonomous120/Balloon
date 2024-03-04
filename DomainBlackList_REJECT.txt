@@ -324,10 +324,17 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/svip_purchase.*
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
 DOMAIN-SUFFIX,jpushjd.m.jd.com
+DOMAIN-SUFFIX,jpushsc.m.jd.com
+DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,300hu.com
 URL-REGEX,^https?://[^/]*\.jd\.com.*\/wishSquare.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=queryBabelFeeds.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=babelGetGuideTips.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=welcomeHome.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=msgEntrance.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=pushGuideService.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=village_filledWishMessage.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uniformRecommend.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=video.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=discoveryPageView.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=readCustomSurfaceList.*
