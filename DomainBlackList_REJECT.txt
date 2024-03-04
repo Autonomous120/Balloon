@@ -311,7 +311,6 @@ DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
 DOMAIN-KEYWORD,1qianbao
-DOMAIN-SUFFIX,jr.jd.com
 DOMAIN-SUFFIX,jdqd.jd.com
 DOMAIN-KEYWORD,oppomobile
 DOMAIN-SUFFIX,antfortune.com
