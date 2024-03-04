@@ -318,9 +318,9 @@ DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup.com
 DOMAIN-SUFFIX,immomo.com
 DOMAIN-SUFFIX,51khs.com
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/activity\/.*,REJECT
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/vip_tab\/.*,REJECT
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/vip-promotion\/.*,REJECT
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/activity/.*,REJECT
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/vip_tab/.*,REJECT
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/vip-promotion/.*,REJECT
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/svip_purchase.*,REJECT
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
