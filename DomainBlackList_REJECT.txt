@@ -326,4 +326,12 @@ DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
 DOMAIN-SUFFIX,jvod.300hu.com
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=video.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=discoveryPageView.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=readCustomSurfaceList.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=disc_recommend_koc_pop.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jdDiscoveryFloorWithList.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=userTalentInfo.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getBubbleInfo.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
 DOMAIN-KEYWORD,alibabachengdun
