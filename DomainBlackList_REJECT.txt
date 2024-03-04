@@ -323,6 +323,7 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/vip-promotion/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*\/svip_purchase.*
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
+DOMAIN-SUFFIX,jpushjd.m.jd.com
 DOMAIN-SUFFIX,jvod.300hu.com
 URL-REGEX,^https?://[^/]*\.jd\.com.*\/wishSquare.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=babelGetGuideTips.*
