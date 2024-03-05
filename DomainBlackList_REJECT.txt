@@ -303,9 +303,9 @@ DOMAIN-SUFFIX,juejin.baidu.com
 DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
 DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
-URL-REGEX,^https?://[^/]*\.baidu\.com.*\/bdlive/.*
-URL-REGEX,^https?://[^/]*\.baidu\.com.*\/livefeed/.*
-URL-REGEX,^https?://[^/]+.*\/dashengVideo/.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed/.*
+URL-REGEX,^https?://[^/]+.*/dashengVideo/.*
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
