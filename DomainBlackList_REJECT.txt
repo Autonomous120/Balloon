@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,myzhiniu.com
 DOMAIN-SUFFIX,yy.com
-URL-REGEX,^https?://[^/]+.*\/yy\/room/.*
+URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-SUFFIX,baizhanlive.com
 DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,sandai.com
