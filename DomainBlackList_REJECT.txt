@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,myzhiniu.com
 DOMAIN-SUFFIX,yy.com
-URL-REGEX,^https?://[^/]+.*\/yy\/room\/.*
+URL-REGEX,^https?://[^/]+.*\/yy\/room/.*
 DOMAIN-SUFFIX,baizhanlive.com
 DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,sandai.com
@@ -306,7 +306,7 @@ DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
 URL-REGEX,^https?://[^/]*\.baidu\.com.*\/tiebaads/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*\/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*\/livefeed/.*
-URL-REGEX,^https?://[^/]+.*\/dashengVideo\/.*
+URL-REGEX,^https?://[^/]+.*\/dashengVideo/.*
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
