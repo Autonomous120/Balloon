@@ -351,4 +351,3 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
-DOMAIN-SUFFIX,icore-aopsmsg.pingan.com.cn
