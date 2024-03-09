@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,qq.pinyin.cn
 DOMAIN-SUFFIX,simba.taobao.com
 DOMAIN-SUFFIX,s.click.taobao.com
 URL-REGEX,^https?://[^/]*\.taobao\.com.*/mobileDispatch.*
+DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-KEYWORD,alibabachengdun
+DOMAIN-SUFFIX,poplayer.template.alibaba.com
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,duomai.com
 DOMAIN-SUFFIX,grapefinance.com
@@ -324,7 +327,6 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/svip_purchase.*
-DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
 DOMAIN-SUFFIX,jpushjd.m.jd.com
 DOMAIN-SUFFIX,jpushsc.m.jd.com
@@ -347,5 +349,6 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=userTalentInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getBubbleInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
-DOMAIN-KEYWORD,alibabachengdun
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
+DOMAIN-SUFFIX,appmonjs.pingan.com.cn
+DOMAIN-SUFFIX,icore-aopsmsg.pingan.com.cn
