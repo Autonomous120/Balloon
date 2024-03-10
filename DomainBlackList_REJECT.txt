@@ -329,6 +329,10 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*/svip_purchase.*
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
 DOMAIN-SUFFIX,jpushjd.m.jd.com
 DOMAIN-SUFFIX,jpushsc.m.jd.com
+DOMAIN-SUFFIX,uranus.jd.com
+DOMAIN-SUFFIX,plus.m.jd.com
+DOMAIN-SUFFIX,wl.jd.com
+DOMAIN-SUFFIX,rsap.jd.com
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,300hu.com
 URL-REGEX,^https?://[^/]*\.jd\.com.*/wishSquare.*
