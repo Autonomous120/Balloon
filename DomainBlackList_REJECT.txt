@@ -353,6 +353,7 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=userTalentInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getBubbleInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=rights_qualificationAndPrizeList.*
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
 DOMAIN-SUFFIX,ant.pingan.com.cn
