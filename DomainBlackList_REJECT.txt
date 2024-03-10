@@ -311,6 +311,7 @@ DOMAIN-SUFFIX,baidu-rmb-mvideopic-1.cdn.bcebos.com
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/queryBlockAndAppealInfo.*
 URL-REGEX,^https?://[^/]+.*/dashengVideo/.*
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
@@ -354,3 +355,5 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
+DOMAIN-SUFFIX,ant.pingan.com.cn
+DOMAIN-SUFFIX,mina-core.pingan.com
