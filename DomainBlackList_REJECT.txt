@@ -309,6 +309,9 @@ DOMAIN-SUFFIX,baidu-rmb-mvideopic-1.cdn.bcebos.com
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/inpv
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adLog
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/submitDislike.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/queryBlockAndAppealInfo.*
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 DOMAIN-SUFFIX,szlddb.com
