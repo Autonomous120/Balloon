@@ -312,7 +312,6 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/inpv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adLog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/schemastat
-URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/newlog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/submitDislike.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/queryBlockAndAppealInfo.*
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
