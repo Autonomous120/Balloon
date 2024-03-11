@@ -310,7 +310,7 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/queryBlockAndAppealInfo.*
-URL-REGEX,^https?://[^/]+.*/dashengVideo/.*
+URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
