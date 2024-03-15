@@ -364,6 +364,7 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=userTalentInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getBubbleInfo.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=homeAreaPop.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jch_nv_index_launch_ad.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=rights_qualificationAndPrizeList.*
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
@@ -373,3 +374,4 @@ DOMAIN-SUFFIX,pre-eb-os-client.pingan.com.cn
 DOMAIN-SUFFIX,maam.pingan.com.cn
 DOMAIN-SUFFIX,isps-api.pingan.com.cn
 DOMAIN-SUFFIX,hczhd-rs.pingan.com.cn
+URL-REGEX,^https?://[^/]*\.pingan\.com\.cn.*/download/icore-aops-base-dmz-prd/.*
