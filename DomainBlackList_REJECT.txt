@@ -383,4 +383,3 @@ DOMAIN-SUFFIX,askbob.pingan.com.cn
 DOMAIN-SUFFIX,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
-URL-REGEX,^https?://[^/]*\.pingan\.com\.cn.*/download/icore-aops-base-dmz-prd/.*
