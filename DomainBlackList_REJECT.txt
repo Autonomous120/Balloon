@@ -375,4 +375,9 @@ DOMAIN-SUFFIX,pre-eb-os-client.pingan.com.cn
 DOMAIN-SUFFIX,maam.pingan.com.cn
 DOMAIN-SUFFIX,isps-api.pingan.com.cn
 DOMAIN-SUFFIX,hczhd-rs.pingan.com.cn
+DOMAIN-SUFFIX,padn-access.pingan.com.cn
+DOMAIN-SUFFIX,icore-hczhd.pingan.com.cn
+DOMAIN-SUFFIX,hczlife-static.pingan.com.cn
+DOMAIN-SUFFIX,askbob.pingan.com.cn
+DOMAIN-SUFFIX,abc==
 URL-REGEX,^https?://[^/]*\.pingan\.com\.cn.*/download/icore-aops-base-dmz-prd/.*
