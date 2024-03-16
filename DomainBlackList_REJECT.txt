@@ -15,6 +15,19 @@ DOMAIN-SUFFIX,poplayer.template.alibaba.com
 URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
 URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?+:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml
+URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
+URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
+URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
+URL-REGEX,^https?+:\/\/api-mifit.+?\.huami\.com\/discovery\/mi\/discovery\/.+?_ad\?
+URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
+URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
+URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
+URL-REGEX,^https?+:\/\/s3plus\.meituan\.net\/.+?\/linglong\/.+?\.(?>gif|jpg|mp4)
+URL-REGEX,^https?+:\/\/api\.meipian\.me.+?advert
+URL-REGEX,^https?+:\/\/api\.smzdm\.com\/v\d\/util\/loading
+URL-REGEX,^https?+:\/\/app-api\.smzdm\.com\/util\/loading
+URL-REGEX,^https?+:\/\/s\d\.zdmimg\.com\/www\/api\/v\d\/api\/thirdAd\.php
+URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad)
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,duomai.com
 DOMAIN-SUFFIX,grapefinance.com
@@ -32,6 +45,7 @@ DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,huya.tv
+DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,snssdk.com
@@ -236,6 +250,7 @@ DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,wps.udesk.cn
 DOMAIN-SUFFIX,wifi.com
 DOMAIN-SUFFIX,lianwifi.com
+DOMAIN-SUFFIX,ggsafe.com
 DOMAIN-SUFFIX,114.cn
 DOMAIN-SUFFIX,114.com
 DOMAIN-SUFFIX,foxitsoftware.com
@@ -387,6 +402,11 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=uploadPageView.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jch_nv_index_launch_ad.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jch_uniformRecommend.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=rights_qualificationAndPrizeList.*
+URL-REGEX,^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$
+URL-REGEX,^https?+:\/\/b?dsp-x\.jd\.com\/adx\/
+URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
+URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
+URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
 DOMAIN-SUFFIX,ant.pingan.com.cn
