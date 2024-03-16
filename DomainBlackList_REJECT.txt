@@ -34,6 +34,8 @@ URL-REGEX,^https?+:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
 URL-REGEX,^https?+:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
 URL-REGEX,^https?+:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/.{25}\.jpg
 URL-REGEX,^https?+:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
+URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
+URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,duomai.com
 DOMAIN-SUFFIX,grapefinance.com
