@@ -66,6 +66,11 @@ DOMAIN-SUFFIX,yy.com
 URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
+DOMAIN-SUFFIX,mall.bilibili.com
+DOMAIN-SUFFIX,api.live.bilibili.com
+URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip/.*
+URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
+URL-REGEX,^https?://[^/]*\.biliapi\.net.*\.Teenagers/.*
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-KEYWORD,shoujiweishi
