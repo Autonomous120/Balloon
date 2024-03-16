@@ -320,6 +320,7 @@ DOMAIN-KEYWORD,weidai
 DOMAIN-KEYWORD,duxiaoman
 DOMAIN-KEYWORD,duxiaomanfintech
 DOMAIN-SUFFIX,dxmpay.com
+DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,paydxm.com
 DOMAIN-SUFFIX,e.baidu.com
 DOMAIN-SUFFIX,yingxiao.baidu.com
