@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,huya.tv
 DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,amemv.com
@@ -337,6 +338,11 @@ URL-REGEX,^https?+:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
 URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
+URL-REGEX,^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier)
+URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/api\/.+?ad
+URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/p(?>agead|tracking)
+URL-REGEX,^https?+:\/\/youtubei\.googleapis\.com\/youtubei\/.+?(?>ad|log)_
+URL-REGEX,^https?+:\/\/gw\.csdn\.net\/cms-app\/v2\/home_page\/open_advertisement
 DOMAIN-SUFFIX,szlddb.com
 DOMAIN-KEYWORD,renrendai
 DOMAIN-SUFFIX,ppdai.com
