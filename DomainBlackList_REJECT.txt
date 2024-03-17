@@ -443,6 +443,8 @@ URL-REGEX,^https?+:\/\/b?dsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
 URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
 URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
+DOMAIN-SUFFIX,restios.amap.com
+DOMAIN-SUFFIX,dualstack-restios.amap.com
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
 DOMAIN-SUFFIX,ant.pingan.com.cn
@@ -452,6 +454,7 @@ DOMAIN-SUFFIX,maam.pingan.com.cn
 DOMAIN-SUFFIX,isps-api.pingan.com.cn
 DOMAIN-SUFFIX,hczhd-rs.pingan.com.cn
 DOMAIN-SUFFIX,padn-access.pingan.com.cn
+DOMAIN-SUFFIX,padn-access.pa18.com
 DOMAIN-SUFFIX,icore-hczhd.pingan.com.cn
 DOMAIN-SUFFIX,hczlife-static.pingan.com.cn
 DOMAIN-SUFFIX,askbob.pingan.com.cn
