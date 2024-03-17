@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,huya.tv
+DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyucdn.cn
@@ -348,7 +349,6 @@ DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
 DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
 DOMAIN-SUFFIX,baidu-rmb-mvideopic-1.cdn.bcebos.com
-DOMAIN-SUFFIX,tb3.bdstatic.com
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/ala/live.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
@@ -402,6 +402,8 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/(?>ab|adx|xen|drama|zst|ad-style-service|market\/popover|search\/(?>top|tab|preset)|.*?(?>guide|recommendations|extended|featured-comment-ad))
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 DOMAIN-SUFFIX,blackhole-m.m.jd.com
+DOMAIN-SUFFIX,cloudreport.jd.com
+DOMAIN-SUFFIX,wlmonitor.m.jd.com
 DOMAIN-SUFFIX,jpushjd.m.jd.com
 DOMAIN-SUFFIX,jpushsc.m.jd.com
 DOMAIN-SUFFIX,uranus.jd.com
