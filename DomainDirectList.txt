@@ -1,1 +1,2 @@
 GEOIP,cn
+DOMAIN-SUFFIX,eset.com
