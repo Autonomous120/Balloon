@@ -461,3 +461,4 @@ DOMAIN-SUFFIX,askbob.pingan.com.cn
 DOMAIN-SUFFIX,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
+URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/teenager/.*
