@@ -1,5 +1,5 @@
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
-URL-REGEX,^https?://[^/]+/(vip|vip_center|vip_purchase|svip_purchase)/.*
+URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
 DOMAIN-SUFFIX,srf.baidu.com
 DOMAIN-SUFFIX,shurufa.baidu.com
 DOMAIN-SUFFIX,z.weixin.qq.com
@@ -404,10 +404,10 @@ URL-REGEX,^https?+:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/(?>action|sdk)ad
 URL-REGEX,^https?+:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
 URL-REGEX,^https?+:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_purchase
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/unlimited/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/market/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/lives/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/drama/.*
