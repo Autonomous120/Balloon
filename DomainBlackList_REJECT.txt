@@ -359,6 +359,8 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/inpv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adLog
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adNewLog.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*\?adcmd.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/schemastat
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/upClientMonitorLog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/submitDislike.*
