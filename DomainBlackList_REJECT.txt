@@ -28,6 +28,15 @@ DOMAIN-SUFFIX,route-stats.d.meituan.net
 DOMAIN-SUFFIX,al-log.d.meituan.net
 DOMAIN-SUFFIX,maplocatesdksnapshot.d.meituan.net
 DOMAIN-SUFFIX,metrics-picture.d.meituan.net
+DOMAIN-SUFFIX,d.meituan.net
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,flowplus.meituan.net
+DOMAIN-SUFFIX,expenses-fe.meituan.com
+DOMAIN-SUFFIX,ccpaccess-fin.meituan.com
+DOMAIN-SUFFIX,market-fin.meituan.com
+DOMAIN-SUFFIX,creditpay.meituan.com
+DOMAIN-SUFFIX,creditcard-fin.meituan.com
+DOMAIN-SUFFIX,dreport.meituan.net
 URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
