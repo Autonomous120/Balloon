@@ -1,4 +1,5 @@
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
+URL-REGEX,^https?://[^/]+/(vip|vip_center|vip_purchase|svip_purchase)/.*
 DOMAIN-SUFFIX,srf.baidu.com
 DOMAIN-SUFFIX,shurufa.baidu.com
 DOMAIN-SUFFIX,z.weixin.qq.com
