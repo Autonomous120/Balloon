@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,shurufa.qq.com
 DOMAIN-SUFFIX,qq.pinyin.cn
 DOMAIN-SUFFIX,simba.taobao.com
 DOMAIN-SUFFIX,s.click.taobao.com
+DOMAIN-SUFFIX,cloudvideocdn.taobao.com
 URL-REGEX,^https?://[^/]*\.taobao\.com.*/amdc/mobileDispatch.*
 URL-REGEX,^https?+:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
 URL-REGEX,^https?+:\/\/(?>heic|gw)\.alicdn\.com\/tfs\/TB1.+?-\d{4}-\d{4}\.jpg_1200x1200q90\.jpg_\.\w{3,4}+$
