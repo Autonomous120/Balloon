@@ -21,6 +21,11 @@ URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
 URL-REGEX,^https?+:\/\/api-mifit.+?\.huami\.com\/discovery\/mi\/discovery\/.+?_ad\?
+DOMAIN-SUFFIX,mtvod.meituan.net
+DOMAIN-SUFFIX,route-stats.d.meituan.net
+DOMAIN-SUFFIX,al-log.d.meituan.net
+DOMAIN-SUFFIX,maplocatesdksnapshot.d.meituan.net
+DOMAIN-SUFFIX,metrics-picture.d.meituan.net
 URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
