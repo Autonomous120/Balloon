@@ -71,7 +71,7 @@ DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,mall.bilibili.com
 DOMAIN-SUFFIX,api.live.bilibili.com
-URL-REGEX,^https?://[^/]*bilibili\.[a-zA-Z]+/(vip|vip_center|admonitor)/.*
+URL-REGEX,^https?+:\/\/api\.bilibili\.[a-zA-Z]+/(vip|vip_center|admonitor)/.*
 URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
 URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
 DOMAIN-SUFFIX,sandai.com
