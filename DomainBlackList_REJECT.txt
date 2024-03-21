@@ -1,3 +1,4 @@
+URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
 DOMAIN-SUFFIX,srf.baidu.com
 DOMAIN-SUFFIX,shurufa.baidu.com
 DOMAIN-SUFFIX,z.weixin.qq.com
@@ -73,7 +74,6 @@ DOMAIN-SUFFIX,api.live.bilibili.com
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip/.*
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/admonitor/.*
-URL-REGEX,^https?://[^/]*\.biliapi\.net.*\.Teenagers/.*
 URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
 URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
 DOMAIN-SUFFIX,sandai.com
@@ -463,6 +463,5 @@ DOMAIN-SUFFIX,askbob.pingan.com.cn
 DOMAIN-SUFFIX,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
-URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/teenager/.*
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/video/.*
 DOMAIN-SUFFIX,21cn.com
