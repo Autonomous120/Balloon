@@ -497,3 +497,6 @@ DOMAIN-SUFFIX,uspider.yuanshen.com
 DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,rongnav.com
+DOMAIN-SUFFIX,hotpatch.cup.com.cn
+DOMAIN-SUFFIX,ads.cup.com.cn
+DOMAIN-SUFFIX,antifraud.cup.com.cn
