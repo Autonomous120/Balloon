@@ -441,6 +441,7 @@ DOMAIN-SUFFIX,rsap.jd.com
 DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
 DOMAIN-SUFFIX,300hu.com
 URL-REGEX,^https?://[^/]*\.jd\.com.*/wishSquare.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*/openUpgrade.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=queryBabelFeeds.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=babelGetGuideTips.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=welcomeHome.*
