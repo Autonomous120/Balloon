@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,market-fin.meituan.com
 DOMAIN-SUFFIX,creditpay.meituan.com
 DOMAIN-SUFFIX,creditcard-fin.meituan.com
 DOMAIN-SUFFIX,dreport.meituan.net
+URL-REGEX,^https?://[^/]*\.meituan\.net.*/video/.*
 URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
@@ -86,6 +87,7 @@ URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,mall.bilibili.com
+DOMAIN-SUFFIX,pay.bilibili.com
 DOMAIN-SUFFIX,live.bilibili.com
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip/.*
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
@@ -482,7 +484,6 @@ DOMAIN-SUFFIX,askbob.pingan.com.cn
 DOMAIN-SUFFIX,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
-URL-REGEX,^https?://[^/]*\.meituan\.net.*/video/.*
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,volcvod.com
