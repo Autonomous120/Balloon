@@ -189,9 +189,6 @@ DOMAIN-SUFFIX,sheca.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
 DOMAIN-SUFFIX,sec.miui.com
 DOMAIN-SUFFIX,avlyun.com
-DOMAIN-SUFFIX,api-payment.mihoyo.com
-DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
-DOMAIN-SUFFIX,uspider.yuanshen.com
 DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,yegame.com
 DOMAIN-SUFFIX,37.com
