@@ -461,6 +461,10 @@ URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jch_nv_index_launch_ad.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jch_uniformRecommend.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=rights_qualificationAndPrizeList.*
 URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=statsReport.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getNewsRedMarkInfo.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getEncryptedPinColor.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=getIosDegrade.*
+URL-REGEX,^https?://[^/]*\.jd\.com.*\?functionId=jdDiscoveryRedPoint.*
 URL-REGEX,^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$
 URL-REGEX,^https?+:\/\/b?dsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
