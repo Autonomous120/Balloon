@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,poplayer.template.alibaba.com
 URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
 URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
+URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
 URL-REGEX,^https?+:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml
 URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
@@ -490,6 +491,7 @@ DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,api-payment.mihoyo.com
 DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,firebaselogging-pa.mihoyo.com
 DOMAIN-SUFFIX,uspider.yuanshen.com
 DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volces.com
