@@ -366,6 +366,7 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,tb.himg.baidu.com
 DOMAIN-SUFFIX,mssdk.volces.com
 DOMAIN-SUFFIX,gsp0.baidu.com
+DOMAIN-SUFFIX,mv.bdstatic.com
 DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
 DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
@@ -377,6 +378,7 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/pv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/inpv
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adLog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adNewLog.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/f/video.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*\?adcmd.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/schemastat
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/upClientMonitorLog
