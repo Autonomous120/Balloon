@@ -17,7 +17,6 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4}
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,poplayer.template.alibaba.com
 URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
-DOMAIN-SUFFIX,dispatcher.is.autonavi.com
 URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
 URL-REGEX,^https?+:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml
