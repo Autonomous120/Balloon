@@ -414,13 +414,17 @@ URL-REGEX,^https?+:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?+:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/(?>action|sdk)ad\.php
 URL-REGEX,^https?+:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
 URL-REGEX,^https?+:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
+DOMAIN-SUFFIX,zhuanlan.zhihu.com
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
 URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/unlimited\/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/market/.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/purchase.*
 URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/svip_purchase.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/unipay\/.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/versioning\/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/lives/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/drama/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/dramas/.*
