@@ -418,8 +418,9 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/unlimited/.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/unlimited\/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/market/.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/svip_purchase.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/lives/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/drama/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/dramas/.*
