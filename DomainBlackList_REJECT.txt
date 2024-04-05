@@ -478,8 +478,6 @@ URL-REGEX,^https?+:\/\/b?dsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
 URL-REGEX,^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
 URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
-DOMAIN-SUFFIX,restios.amap.com
-DOMAIN-SUFFIX,dualstack-restios.amap.com
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
 DOMAIN-SUFFIX,mina-core.pingan.com
