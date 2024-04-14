@@ -500,3 +500,6 @@ DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,rongnav.com
 DOMAIN-SUFFIX,ads.cup.com.cn
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/.*
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/.*
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/.*
