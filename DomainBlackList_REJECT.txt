@@ -487,6 +487,7 @@ DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,pay.mihoyo.com
 DOMAIN-SUFFIX,api-payment.mihoyo.com
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/payment/.*
 DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,firebaselogging-pa.mihoyo.com
