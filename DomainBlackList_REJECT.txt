@@ -485,6 +485,7 @@ DOMAIN-SUFFIX,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,21cn.com
+DOMAIN-SUFFIX,pay.mihoyo.com
 DOMAIN-SUFFIX,api-payment.mihoyo.com
 DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
