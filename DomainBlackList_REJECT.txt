@@ -380,6 +380,7 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/upClientMonitorLog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/submitDislike.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/queryBlockAndAppealInfo.*
 URL-REGEX,^https?+:\/\/[^/]*\.baidu\.com\/c\/e\/pay\/.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/pay/member.*
 URL-REGEX,^https?+:\/\/tiebac\.baidu\.com\/tiebaads\/.*
 URL-REGEX,^https?+:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
 URL-REGEX,^https?+:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
