@@ -170,6 +170,14 @@ DOMAIN-SUFFIX,5s.qq.com
 DOMAIN-SUFFIX,zhuoyao.qq.com
 DOMAIN-SUFFIX,gamevip.qq.com
 DOMAIN-SUFFIX,codol.qq.com
+DOMAIN-SUFFIX,dldir1v6.qq.com
+DOMAIN-SUFFIX,conf.sdk.qcloud.com
+DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
+DOMAIN-SUFFIX,sjy.flv.wxqcloud.qq.com
+DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
+DOMAIN-SUFFIX,hw.flv.wxqcloud.qq.com
+DOMAIN-SUFFIX,voipfinderliveplaythird.wxqcloud.qq.com
+DOMAIN-SUFFIX,pull-m1.wxlivecdn.com
 DOMAIN-SUFFIX,gjfzpt.com
 DOMAIN-SUFFIX,bbums.com
 DOMAIN-SUFFIX,bjca.cn
