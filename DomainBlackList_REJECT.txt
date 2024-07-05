@@ -500,3 +500,6 @@ URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/.*
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/.*
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/.*
 DOMAIN-SUFFIX,snipaste.buzz
+DOMAIN-SUFFIX,openvpn.app.link
+DOMAIN-SUFFIX,nmydf.org
+DOMAIN-SUFFIX,openvpm.com
