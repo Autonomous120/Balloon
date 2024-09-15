@@ -1,2 +1,0 @@
-DOMAIN,a100.top
-DOMAIN,vault.a100.top
