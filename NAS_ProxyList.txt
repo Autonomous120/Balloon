@@ -1,0 +1,6 @@
+DOMAIN,unifi.a100.top
+DOMAIN,adguard.a100.top
+DOMAIN,wg.a100.top
+DOMAIN,yacd.a100.top
+DOMAIN,alist.a100.top
+DOMAIN,syncthing.a100.top
