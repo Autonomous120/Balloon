@@ -1,3 +1,4 @@
+IP-CIDR,192.168.1.0/24
 DOMAIN,unifi.a100.top
 DOMAIN,adguard.a100.top
 DOMAIN,wg.a100.top
