@@ -1,7 +1,7 @@
+DOMAIN-SUFFIX,stable-vpn.com
 DOMAIN-SUFFIX,license.pdfexpert.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,northghost.com
-DOMAIN-SUFFIX,cloudfront.net
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
 URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
 DOMAIN-SUFFIX,srf.baidu.com
