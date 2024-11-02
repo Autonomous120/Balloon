@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,northghost.com
 DOMAIN,d1syh6mjear537.cloudfront.net
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com
