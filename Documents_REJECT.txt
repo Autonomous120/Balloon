@@ -3,4 +3,5 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,northghost.com
+DOMAIN-SUFFIX,stable-vpn.com
 DOMAIN,d1syh6mjear537.cloudfront.net
