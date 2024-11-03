@@ -1,2 +1,6 @@
 GEOIP,cn
 DOMAIN-SUFFIX,eset.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.cn
