@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,ess.apple.com
-DOMAIN-SUFFIX,pancake.apple.com
-DOMAIN-SUFFIX,swallow.apple.com
 DOMAIN-SUFFIX,inappcheck.itunes.apple.com
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
 URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
