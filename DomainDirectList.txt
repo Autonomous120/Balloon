@@ -1,3 +1,4 @@
+IP-CIDR,192.168.0.0/16
 GEOIP,cn
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,apple.com
