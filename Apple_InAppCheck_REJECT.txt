@@ -1,2 +1,3 @@
 receipt.apple.com
 verify.apple.com
+buy.itunes.apple.com
