@@ -1,1 +1,2 @@
 receipt.apple.com
+verify.apple.com
