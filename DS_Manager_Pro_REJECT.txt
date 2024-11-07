@@ -1,1 +1,3 @@
-t
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
