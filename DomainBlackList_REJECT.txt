@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,inappcheck.itunes.apple.com
+DOMAIN-SUFFIX,mzstorekit.itunes.apple.com
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
 URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
 DOMAIN-SUFFIX,srf.baidu.com
