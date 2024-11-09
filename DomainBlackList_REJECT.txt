@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,360totalsecurity.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360anquan.com
 DOMAIN-SUFFIX,360aqws.com
+DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,hao.qq.com
 DOMAIN-SUFFIX,qzone.qq.com
 DOMAIN-SUFFIX,stock.qq.com
