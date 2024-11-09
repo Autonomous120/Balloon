@@ -3,6 +3,8 @@ IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
 GEOIP,cn
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.com.cn
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.cn
