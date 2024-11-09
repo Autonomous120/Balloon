@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,umengcloud.com
 URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
 URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
 DOMAIN-SUFFIX,srf.baidu.com
