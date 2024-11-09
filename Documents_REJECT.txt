@@ -4,4 +4,5 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,northghost.com
 DOMAIN-SUFFIX,stable-vpn.com
+DOMAIN-SUFFIX,pango-paas.co
 DOMAIN,d1syh6mjear537.cloudfront.net
