@@ -4,6 +4,6 @@ DOMAIN-SUFFIX,purchases.itunes.apple.com
 DOMAIN-SUFFIX,receipt.apple.com
 DOMAIN-SUFFIX,verify.apple.com
 DOMAIN-SUFFIX,buy.itunes.apple.com
-DOMAIN-SUFFIX,p7-buy.itunes.apple.com
+URL-REX,^p\d+-buy\.itunes\.apple\.com$
 DOMAIN-SUFFIX,fraud.merchant.apple.com
 DOMAIN-SUFFIX,fraud.icloud.com
