@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,umengcloud.com
-URL-REGEX,^https?://[^/]+/(?i:teenager|teenagers)/.*
-URL-REGEX,^https?://[^/]+/(vip|vip_center)/.*
+URL-REGEX,"^https?://[^/]+/(?i:teenager|teenagers)/.*"
+URL-REGEX,"^https?://[^/]+/(vip|vip_center)/.*"
 DOMAIN-SUFFIX,srf.baidu.com
 DOMAIN-SUFFIX,shurufa.baidu.com
 DOMAIN-SUFFIX,z.weixin.qq.com
