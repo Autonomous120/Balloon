@@ -14,4 +14,5 @@ DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,ui.com
