@@ -184,8 +184,6 @@ DOMAIN-SUFFIX,bjca.cn
 DOMAIN-SUFFIX,gdca.com.cn
 DOMAIN-SUFFIX,itrus.com.cn
 DOMAIN-SUFFIX,sheca.com
-DOMAIN-SUFFIX,api.installer.xiaomi.com
-DOMAIN-SUFFIX,sec.miui.com
 DOMAIN-SUFFIX,avlyun.com
 DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,yegame.com
