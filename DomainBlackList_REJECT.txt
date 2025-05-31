@@ -263,7 +263,6 @@ DOMAIN-SUFFIX,rhehw.com
 DOMAIN-SUFFIX,rwbzx.com
 DOMAIN-SUFFIX,eyunsou.com
 DOMAIN-SUFFIX,37274.com
-DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,antso.com
 DOMAIN-SUFFIX,webshowu.com
 DOMAIN-SUFFIX,newhua.com
