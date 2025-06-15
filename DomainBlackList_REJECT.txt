@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,aiotsecu.com
 DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,ql.njmapp.com
 DOMAIN-SUFFIX,huya.tv
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,msstatic.com
