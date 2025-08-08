@@ -64,9 +64,11 @@ DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,ql.njmapp.com
 DOMAIN-SUFFIX,huya.tv
+DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pstatp.com
@@ -453,3 +455,4 @@ DOMAIN-SUFFIX,snipaste.buzz
 DOMAIN-SUFFIX,openvpn.app.link
 DOMAIN-SUFFIX,nmydf.org
 DOMAIN-SUFFIX,openvpm.com
+
