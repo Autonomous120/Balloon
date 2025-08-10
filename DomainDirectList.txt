@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ipw.cn
