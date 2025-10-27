@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,simba.taobao.com
 DOMAIN-SUFFIX,s.click.taobao.com
 DOMAIN-SUFFIX,cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,fullscreen-detail.alicdn.com
+DOMAIN-SUFFIX,wvcfg.alicdn.com
+DOMAIN-SUFFIX,yixiu-abtest.alicdn.com
 URL-REGEX,^https?://.*live.*\.alicdn\.com
 URL-REGEX,^https?+:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
 URL-REGEX,^https?+:\/\/(?>heic|gw)\.alicdn\.com\/tfs\/TB1.+?-\d{4}-\d{4}\.jpg_1200x1200q90\.jpg_\.\w{3,4}+$
@@ -459,6 +462,7 @@ DOMAIN-SUFFIX,snipaste.buzz
 DOMAIN-SUFFIX,openvpn.app.link
 DOMAIN-SUFFIX,nmydf.org
 DOMAIN-SUFFIX,openvpm.com
+
 
 
 
