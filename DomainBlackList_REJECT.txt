@@ -31,6 +31,16 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$
 URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4}
 DOMAIN-SUFFIX,poplayer.template.alibaba.com
 URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
+DOMAIN-KEYWORD,video,pinduoduo
+DOMAIN-KEYWORD,video,pddpic
+DOMAIN-KEYWORD,video,pddugc
+DOMAIN-KEYWORD,video,yangkeduo.com
+DOMAIN-KEYWORD,live,pinduoduo
+DOMAIN-KEYWORD,live,pddpic
+DOMAIN-KEYWORD,live,pddugc
+DOMAIN-KEYWORD,live,yangkeduo.com
+DOMAIN-SUFFIX,ta-a.pinduoduo.com
+DOMAIN-SUFFIX,th-a.pinduoduo.com
 URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
 URL-REGEX,^https?+:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml
@@ -470,6 +480,7 @@ DOMAIN-SUFFIX,snipaste.buzz
 DOMAIN-SUFFIX,openvpn.app.link
 DOMAIN-SUFFIX,nmydf.org
 DOMAIN-SUFFIX,openvpm.com
+
 
 
 
