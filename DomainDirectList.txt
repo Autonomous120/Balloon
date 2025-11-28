@@ -1,17 +1,3 @@
-IP-CIDR,192.168.0.0/16
-IP-CIDR,10.0.0.0/8
-IP-CIDR,172.16.0.0/12
-GEOIP,cn
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobao.com.cn
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipay.com.cn
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,eset.com
-DOMAIN-SUFFIX,apple.cn
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.cn
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,synology.com
