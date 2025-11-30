@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,ipw.cn
+DOMAIN,time.apple.com
 
 # 私有 IPv4
 IP-CIDR,10.0.0.0/8
