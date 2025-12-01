@@ -14,6 +14,7 @@ URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
 URL-REGEX,^https?+:\/\/api-mifit.+?\.huami\.com\/discovery\/mi\/discovery\/.+?_ad\?
+# 美团
 DOMAIN-SUFFIX,mtvod.meituan.net
 DOMAIN-SUFFIX,al-log.d.meituan.net
 DOMAIN-SUFFIX,flowplus.meituan.net
@@ -44,8 +45,8 @@ DOMAIN-SUFFIX,grapefinance.com
 DOMAIN-SUFFIX,woofonsol.com
 DOMAIN-SUFFIX,yydsfans.com
 DOMAIN-SUFFIX,immmmmm.top
-DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,youzan.com
+# 德施曼
 DOMAIN-SUFFIX,vueh5.dsmxp.com
 DOMAIN-SUFFIX,image.dsmxp.com
 DOMAIN-SUFFIX,secu100.net
@@ -246,6 +247,7 @@ DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,ladydaily.com
 DOMAIN-SUFFIX,bitwarden.pro
 DOMAIN-SUFFIX,adtime.com
+# 百度系
 DOMAIN-KEYWORD,weidai
 DOMAIN-KEYWORD,duxiaoman
 DOMAIN-KEYWORD,duxiaomanfintech
@@ -320,6 +322,7 @@ URL-REGEX,^https?+:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?+:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/(?>action|sdk)ad\.php
 URL-REGEX,^https?+:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
 URL-REGEX,^https?+:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
+# 知乎
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
@@ -339,6 +342,7 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 DOMAIN-SUFFIX,300hu.com
 URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
+# 平安
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
 DOMAIN-SUFFIX,mina-core.pingan.com
@@ -355,9 +359,11 @@ DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,rongnav.com
 DOMAIN-SUFFIX,ads.cup.com.cn
+# 小红书
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/.*
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/.*
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/.*
+# 钓鱼
 DOMAIN-SUFFIX,snipaste.buzz
 DOMAIN-SUFFIX,openvpn.app.link
 DOMAIN-SUFFIX,nmydf.org
@@ -375,4 +381,3 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
-
