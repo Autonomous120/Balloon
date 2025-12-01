@@ -82,6 +82,7 @@ URL-REGEX,"^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash"
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-KEYWORD,shoujiweishi
+# 360
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360totalsecurity.com
@@ -89,6 +90,7 @@ DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360anquan.com
 DOMAIN-SUFFIX,360aqws.com
 DOMAIN-SUFFIX,pull-m1.wxlivecdn.com
+# 垃圾游戏
 DOMAIN-SUFFIX,gjfzpt.com
 DOMAIN-SUFFIX,bbums.com
 DOMAIN-SUFFIX,bjca.cn
@@ -163,6 +165,7 @@ DOMAIN-SUFFIX,rryeyou.com
 DOMAIN-SUFFIX,wyxi.cn
 DOMAIN-SUFFIX,cyeyou.com
 DOMAIN-SUFFIX,265g.com
+# 经典流氓
 DOMAIN-SUFFIX,hao.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,2345.cc
@@ -381,3 +384,4 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
+
