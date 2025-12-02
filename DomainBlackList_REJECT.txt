@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,flowplus.meituan.net
 DOMAIN-SUFFIX,ccpaccess-fin.meituan.com
 DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,meituan.httpdns.qcloud.com
-URL-REGEX,"^https?://[^/]*\.meituan\.net.*/video/.*"
+URL-REGEX,^https?://[^/]*\.meituan\.net.*/video/.*
 URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
@@ -74,17 +74,17 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,myzhiniu.com
 DOMAIN-SUFFIX,yy.com
-URL-REGEX,"^https?://[^/]+.*/yy/room/.*"
+URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
 # Bilibili
 DOMAIN-SUFFIX,mall.bilibili.com
 DOMAIN-SUFFIX,pay.bilibili.com
-URL-REGEX,"^https?://[^/]*\.bilibili\.com.*/vip/.*"
-URL-REGEX,"^https?://[^/]*\.bilibili\.com.*/vip_center/.*"
-URL-REGEX,"^https?://[^/]*\.bilibili\.com.*/admonitor/.*"
-URL-REGEX,"^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/"
-URL-REGEX,"^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash"
+URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip/.*
+URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
+URL-REGEX,^https?://[^/]*\.bilibili\.com.*/admonitor/.*
+URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
+URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
 DOMAIN-SUFFIX,sandai.com
 DOMAIN-KEYWORD,shoujiweishi
 # 360
@@ -328,3 +328,4 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
+
