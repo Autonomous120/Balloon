@@ -12,6 +12,7 @@ URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
 URL-REGEX,^https?+:\/\/api-mifit.+?\.huami\.com\/discovery\/mi\/discovery\/.+?_ad\?
+URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
 # 美团
 DOMAIN-SUFFIX,mtvod.meituan.net
 DOMAIN-SUFFIX,al-log.d.meituan.net
@@ -288,7 +289,6 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/commercial_api\/(?>launch|real_time)
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 DOMAIN-SUFFIX,300hu.com
-URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
 # 平安
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
@@ -328,5 +328,3 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
-
-
