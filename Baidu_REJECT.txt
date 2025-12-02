@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,paydxm.com
 DOMAIN-SUFFIX,beeplaying.com
+DOMAIN-SUFFIX,baifubao.com
+DOMAIN-SUFFIX,icash.baidu.com
 DOMAIN-SUFFIX,e.baidu.com
 DOMAIN-SUFFIX,yingxiao.baidu.com
 DOMAIN-SUFFIX,activity.baidu.com
