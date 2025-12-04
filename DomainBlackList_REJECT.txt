@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,wwads.cn
+DOMAIN-SUFFIX,zztfly.com
 # 拼多多
 URL-REGEX,^https?://.*(video|live)[0-9\-\.]*\.(pddpic|pddugc|yangkeduo)\.com
 DOMAIN-SUFFIX,ta-a.pinduoduo.com
@@ -328,4 +329,5 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
+
 
