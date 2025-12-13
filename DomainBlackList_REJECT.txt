@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,myzhiniu.com
 DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com
 URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
@@ -309,3 +310,4 @@ DOMAIN-KEYWORD,lOOlO
 DOMAIN-KEYWORD,1OOlO
 DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
+
