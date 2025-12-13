@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,yy.com
 URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
+DOMAIN-SUFFIX,sandai.com
 # Bilibili
 DOMAIN-SUFFIX,mall.bilibili.com
 DOMAIN-SUFFIX,pay.bilibili.com
@@ -86,7 +87,6 @@ URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/admonitor/.*
 URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
 URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
-DOMAIN-SUFFIX,sandai.com
 DOMAIN-KEYWORD,shoujiweishi
 # 360
 DOMAIN-SUFFIX,360.cn
@@ -191,7 +191,6 @@ DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,so.cn
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,haosou.com
-DOMAIN-SUFFIX,wps.udesk.cn
 DOMAIN-SUFFIX,wifi.com
 DOMAIN-SUFFIX,lianwifi.com
 DOMAIN-SUFFIX,ggsafe.com
@@ -271,25 +270,6 @@ URL-REGEX,^https?+:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?+:\/\/sdkapp\.uve\.weibo\.com\/interface\/sdk\/(?>action|sdk)ad\.php
 URL-REGEX,^https?+:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua
 URL-REGEX,^https?+:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads
-# 知乎
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/unlimited\/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/market/.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/purchase.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/svip_purchase.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/unipay\/.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com.*\/versioning\/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/lives/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/drama/.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/dramas/.*
-URL-REGEX,^https?+:\/\/api\.zhihu\.com\/(?>launch|real_time)
-URL-REGEX,^https?+:\/\/api\.zhihu\.com\/commercial_api\/(?>launch|real_time)
-URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
-URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
-DOMAIN-SUFFIX,300hu.com
 # 平安
 DOMAIN-SUFFIX,appmonlife.pingan.com.cn
 DOMAIN-SUFFIX,appmonjs.pingan.com.cn
