@@ -20,4 +20,4 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,pv.sohu.com
-IP-CIDR,182.61.194.7/32
+IP-CIDR,182.61.194.7
