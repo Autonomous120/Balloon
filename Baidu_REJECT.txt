@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,fenwan.cdn.bcebos.com
 DOMAIN-SUFFIX,plusjrmallstatic.bj.bcebos.com
 DOMAIN-SUFFIX,ala-rmb-gift.bj.bcebos.com
 DOMAIN-SUFFIX,baidu-rmb-mvideopic-1.cdn.bcebos.com
+DOMAIN-SUFFIX,bigda.com
+DOMAIN-SUFFIX,yystatic.com
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/bdlive/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/ala/live.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/livefeed.*
@@ -65,4 +67,12 @@ URL-REGEX,^https?+:\/\/pan\.baidu\.com\/act\/api\/activityentry
 URL-REGEX,^https?+:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 URL-REGEX,^https?://[^/]*\.bdstatic\.com.*/tb/wise/hybrid-business-vip/.*
-IP-CIDR,120.232.148.75/32
+IP-CIDR,120.232.148.75
+IP-CIDR,183.240.168.210
+IP-CIDR,163.177.159.142
+IP-CIDR,163.177.156.228
+IP-CIDR,125.94.245.174
+IP-CIDR,106.38.197.51
+IP-CIDR,183.36.23.0/24
+IP-CIDR,123.125.184.147
+IP-CIDR,111.13.164.49
