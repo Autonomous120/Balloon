@@ -1,0 +1,23 @@
+# 知乎
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/ad-style-service/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip-promotion/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/unlimited/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/kvip/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/market/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/unipay/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/purchase.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/svip_purchase.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/versioning/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/lives/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/drama/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/dramas/.*
+URL-REGEX,^https?+:\/\/api\.zhihu\.com\/(?>launch|real_time)
+URL-REGEX,^https?+:\/\/api\.zhihu\.com\/commercial_api\/(?>launch|real_time)
+URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
+URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,pv.sohu.com
+IP-CIDR,182.61.194.7/32
