@@ -49,6 +49,7 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/adNewLog.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/schemastat
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/s/upClientMonitorLog
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/f/video.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/f/forum/forumShop.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/c/f/forum/shopGoodsFeed.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/mo/q/member/.*
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/submitDislike.*
@@ -64,3 +65,4 @@ URL-REGEX,^https?+:\/\/pan\.baidu\.com\/act\/api\/activityentry
 URL-REGEX,^https?+:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 URL-REGEX,^https?://[^/]*\.bdstatic\.com.*/tb/wise/hybrid-business-vip/.*
+IP-CIDR,120.232.148.75/32
