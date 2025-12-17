@@ -1,5 +1,6 @@
 # 知乎
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/collector/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/ad-style-service/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
@@ -20,4 +21,5 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,pv.sohu.com
+DOMAIN-SUFFIX,vzuu.com
 IP-CIDR,182.61.194.7
