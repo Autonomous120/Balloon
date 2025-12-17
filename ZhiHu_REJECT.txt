@@ -1,10 +1,15 @@
 # 知乎
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/activity/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/noti_activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/collector/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/appview/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/check_health.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/video-feed/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/zvideo/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/zvideos/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/events/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/event-center/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/message-push/event/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/ad-style-service/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/settings/vip.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/vip_tab/.*
@@ -23,8 +28,9 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/(?>launch|real_time)
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/commercial_api\/(?>launch|real_time)
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
+DOMAIN-SUFFIX,mqtt-internal-public.zhihu.com
+DOMAIN-SUFFIX,activity.zhihu.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,vzuu.com
 IP-CIDR,182.61.194.7
-
