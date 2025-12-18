@@ -4,7 +4,7 @@ URL-REGEX,^https?://[^/]*\.zhihu\.com.*/noti_activity/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/collector/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/commercial_api/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/check_health.*
-URL-REGEX,^https?://[^/]*\.zhihu\.com.*/appview/.*
+URL-REGEX,^https?://[^/]*\.zhihu\.com.*/operation_guides/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/video-feed/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/zvideo/.*
 URL-REGEX,^https?://[^/]*\.zhihu\.com.*/zvideos/.*
