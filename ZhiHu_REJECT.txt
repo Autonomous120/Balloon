@@ -34,5 +34,4 @@ DOMAIN-SUFFIX,activity.zhihu.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,vzuu.com
-
 IP-CIDR,182.61.194.7
