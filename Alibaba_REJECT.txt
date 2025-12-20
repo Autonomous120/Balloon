@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,yixiu-abtest.alicdn.com
 DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,alive-interact.alicdn.com
 DOMAIN-SUFFIX,liveng-rtclive.taobao.com
+DOMAIN-SUFFIX,livecb-rtclive.taobao.com
 DOMAIN-SUFFIX,dorangesource.alicdn.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
 DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
@@ -21,6 +22,8 @@ URL-REGEX,^https?://[^/]*\.alicdn\.com.*/alivemodx.*
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*/tbvideocom.*
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*/tbvideomod.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*\.liveroom.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*\.tblive.*
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*\-tblive.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*/taobaoliveFE/.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*\.livexshow.*
+
