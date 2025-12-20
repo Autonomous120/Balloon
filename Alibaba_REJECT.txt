@@ -20,4 +20,5 @@ URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$
 URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/TB1.+?750-\d{4}
 DOMAIN-SUFFIX,poplayer.template.alibaba.com
 URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
-
+DOMAIN-SUFFIX,qiezibenpao.com
+# https://g.alicdn.com/code/npm/@ali/alivemodx-pentaprism-floaticon-video/1.0.5/index.js
