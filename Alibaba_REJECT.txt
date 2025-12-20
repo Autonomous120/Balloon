@@ -1,8 +1,5 @@
 DOMAIN-SUFFIX,audid-api.taobao.com
-DOMAIN-SUFFIX,cloudvideocdn.taobao.com
 DOMAIN-SUFFIX,loggw-ex.alipay.com
-DOMAIN-SUFFIX,fullscreen-detail.alicdn.com
-DOMAIN-SUFFIX,wvcfg.alicdn.com
 DOMAIN-SUFFIX,yixiu-abtest.alicdn.com
 DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,alive-interact.alicdn.com
@@ -10,7 +7,6 @@ DOMAIN-SUFFIX,liveng-rtclive.taobao.com
 DOMAIN-SUFFIX,dorangesource.alicdn.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
 DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
-DOMAIN-SUFFIX,zconfig.alibabausercontent.com
 URL-REGEX,^https?:\/\/amdc\.alipay\.com\/squery
 URL-REGEX,^https?://.*live.*\.alicdn\.com
 URL-REGEX,^https?+:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
