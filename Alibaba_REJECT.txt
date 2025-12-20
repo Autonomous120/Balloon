@@ -23,3 +23,8 @@ URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementserv
 DOMAIN-SUFFIX,qiezibenpao.com
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*/alivemodx.*
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*/tbvideocom.*
+URL-REGEX,^https?://[^/]*\.alicdn\.com.*/tbvideomod.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*\.liveroom.*
+URL-REGEX,^https?://[^/]*\.alicdn\.com.*\-tblive.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*/taobaoliveFE/.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*\.livexshow.*
