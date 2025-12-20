@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,livemsgconnect.taobao.com
 DOMAIN-SUFFIX,liveng-rtclive.taobao.com
 DOMAIN-SUFFIX,liveca-rtclive.taobao.com
 DOMAIN-SUFFIX,livecb-rtclive.taobao.com
+DOMAIN-SUFFIX,live-spare.alicdn.com
 DOMAIN-SUFFIX,dorangesource.alicdn.com
 DOMAIN-SUFFIX,rhdc-acs.m.taobao.com
 DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
@@ -28,3 +29,5 @@ URL-REGEX,^https?://[^/]*\.taobao\.com.*\.tblive.*
 URL-REGEX,^https?://[^/]*\.alicdn\.com.*\-tblive.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*/taobaoliveFE/.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*\.livexshow.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*\.interaction\.gateway\.live.*
+URL-REGEX,^https?://[^/]*\.taobao\.com.*\.mediaplatform\.live.*
