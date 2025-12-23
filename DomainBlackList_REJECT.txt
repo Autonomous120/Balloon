@@ -1,3 +1,8 @@
+# DNS
+DOMAIN-SUFFIX,dns.alidns.com
+IP-CIDR,223.5.5.5/32
+IP-CIDR,223.6.6.6/32
+# 其它
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,wwads.cn
@@ -6,8 +11,6 @@ DOMAIN-SUFFIX,zztfly.com
 URL-REGEX,^https?://.*(video|live)[0-9\-\.]*\.(pddpic|pddugc|yangkeduo)\.com
 DOMAIN-SUFFIX,ta-a.pinduoduo.com
 DOMAIN-SUFFIX,th-a.pinduoduo.com
-URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
-URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
 URL-REGEX,^https?+:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml
 URL-REGEX,^https?+:\/\/api\.m\.mi\.com\/v\d\/app\/start
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
@@ -312,3 +315,7 @@ DOMAIN-KEYWORD,lOO1O
 DOMAIN-KEYWORD,1OO1O
 DOMAIN-SUFFIX,niupilao.vip
 DOMAIN-SUFFIX,c3pool.org
+DOMAIN-SUFFIX,xagj2gs.com
+DOMAIN-SUFFIX,chh5200.com
+DOMAIN-SUFFIX,enekdsq.com
+DOMAIN-SUFFIX,mdjyllb.com
