@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,cloan.amap.com
+DOMAIN-SUFFIX,log.mmstat.com
+DOMAIN-SUFFIX,quickaplus-server-api-cn-zhangjiakou.aliyuncs.com
+URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
+URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
