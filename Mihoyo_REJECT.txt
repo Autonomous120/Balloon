@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,h5log-api-dualstack.mihoyo.com
+DOMAIN-SUFFIX,log-upload-v6.mihoyo.com
+DOMAIN-SUFFIX,act-api-takumi.mihoyo.com
+DOMAIN-SUFFIX,act-api-takumi-static.mihoyo.com
+DOMAIN-SUFFIX,h5collector.mihoyo.com
