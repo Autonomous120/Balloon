@@ -315,3 +315,6 @@ DOMAIN-SUFFIX,xagj2gs.com
 DOMAIN-SUFFIX,chh5200.com
 DOMAIN-SUFFIX,enekdsq.com
 DOMAIN-SUFFIX,mdjyllb.com
+DOMAIN-SUFFIX,huorongcn.com
+DOMAIN-SUFFIX,pqowdjioefobog.cyou
+DOMAIN-SUFFIX,apps-huorong.com.cn
