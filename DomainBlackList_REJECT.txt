@@ -3,6 +3,18 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,aiotsecu.com
+DOMAIN-SUFFIX,50union.com
+DOMAIN-KEYWORD,shoujiweishi
+URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad)
+URL-REGEX,^https?+:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
+URL-REGEX,^https?+:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/
+URL-REGEX,^https?+:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
+URL-REGEX,^https?+:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
+URL-REGEX,^https?+:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/.{25}\.jpg
+URL-REGEX,^https?+:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
+URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
+URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
 # 拼多多
 URL-REGEX,^https?://.*(video|live)[0-9\-\.]*\.(pddpic|pddugc|yangkeduo)\.com
 DOMAIN-SUFFIX,ta-a.pinduoduo.com
@@ -30,15 +42,6 @@ URL-REGEX,^https?+:\/\/api\.meipian\.me.+?advert
 URL-REGEX,^https?+:\/\/api\.smzdm\.com\/v\d\/util\/loading
 URL-REGEX,^https?+:\/\/app-api\.smzdm\.com\/util\/loading
 URL-REGEX,^https?+:\/\/s\d\.zdmimg\.com\/www\/api\/v\d\/api\/thirdAd\.php
-URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad)
-URL-REGEX,^https?+:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
-URL-REGEX,^https?+:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/
-URL-REGEX,^https?+:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
-URL-REGEX,^https?+:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
-URL-REGEX,^https?+:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/.{25}\.jpg
-URL-REGEX,^https?+:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit
-URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
-URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
 # 借贷
 DOMAIN-SUFFIX,xjietiao.com
 DOMAIN-SUFFIX,duomai.com
@@ -54,10 +57,8 @@ DOMAIN-SUFFIX,youzan.com
 DOMAIN-SUFFIX,vueh5.dsmxp.com
 DOMAIN-SUFFIX,image.dsmxp.com
 DOMAIN-SUFFIX,secu100.net
-DOMAIN-SUFFIX,aiotsecu.com
-DOMAIN-SUFFIX,50union.com
-DOMAIN-SUFFIX,toutiao.com
 # 短视频/直播
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,ql.njmapp.com
 DOMAIN-SUFFIX,huya.tv
@@ -87,7 +88,6 @@ URL-REGEX,^https?://[^/]*\.bilibili\.com.*/vip_center/.*
 URL-REGEX,^https?://[^/]*\.bilibili\.com.*/admonitor/.*
 URL-REGEX,^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/
 URL-REGEX,^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash
-DOMAIN-KEYWORD,shoujiweishi
 # 360
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
