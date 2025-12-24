@@ -4,10 +4,10 @@ DOMAIN-SUFFIX,log-upload-v6.mihoyo.com
 DOMAIN-SUFFIX,ad-log-upload.mihoyo.com
 DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,sdk-log-upload.mihoyo.com
-DOMAIN-SUFFIX,act.mihoyo.com
+# DOMAIN-SUFFIX,act.mihoyo.com
 DOMAIN-SUFFIX,act-api-takumi.mihoyo.com
 DOMAIN-SUFFIX,act-api-takumi-static.mihoyo.com
-# DOMAIN-SUFFIX,h5collector.mihoyo.com
+DOMAIN-SUFFIX,h5collector.mihoyo.com
 DOMAIN-SUFFIX,cnuspider.yuanshen.com
 DOMAIN-SUFFIX,uspider.yuanshen.com
 DOMAIN-SUFFIX,pay.mihoyo.com
@@ -18,4 +18,5 @@ DOMAIN-SUFFIX,apm-api.mihoyo.com
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/createOrder.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/reportIapError.*
+
 
