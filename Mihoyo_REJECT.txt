@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,log-upload-v6.mihoyo.com
 DOMAIN-SUFFIX,ad-log-upload.mihoyo.com
 DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,sdk-log-upload.mihoyo.com
+DOMAIN-SUFFIX,apm-log-upload.mihoyo.com
+DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com
 DOMAIN-SUFFIX,act-api-takumi.mihoyo.com
 DOMAIN-SUFFIX,act-api-takumi-static.mihoyo.com
 DOMAIN-SUFFIX,h5collector.mihoyo.com
@@ -14,8 +16,20 @@ DOMAIN-SUFFIX,api-payment.mihoyo.com
 DOMAIN-SUFFIX,firebaselogging-pa.mihoyo.com
 DOMAIN-SUFFIX,data-abtest-api.mihoyo.com
 DOMAIN-SUFFIX,apm-api.mihoyo.com
+# ChatGPT认为可疑
+DOMAIN-SUFFIX,cl2009.com
+# 验证码
 DOMAIN-SUFFIX,geetest.com
+# 米游社签到界面拉起图形验证码
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
+# 商城界面购买月卡、创世结晶生成订单
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/luckycat/.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/createOrder.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/reportIapError.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/batchGetRedDot.*
+URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/site_push.*
+URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/window/show.*
+URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/teenager/.*
+URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/blockWord/.*
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/h5log/log/.*
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/mihoyo-analysis/.*
