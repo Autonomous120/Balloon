@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,api-payment.mihoyo.com
 DOMAIN-SUFFIX,firebaselogging-pa.mihoyo.com
 DOMAIN-SUFFIX,data-abtest-api.mihoyo.com
 DOMAIN-SUFFIX,apm-api.mihoyo.com
+DOMAIN-SUFFIX,geetest.com
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/createOrder.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/reportIapError.*
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/batchGetRedDot.*
