@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,apm-api.mihoyo.com
 # ChatGPT认为可疑
 DOMAIN-SUFFIX,cl2009.com
 # 验证码
-DOMAIN-SUFFIX,geetest.com
+# DOMAIN-SUFFIX,geetest.com
 # 米游社签到界面拉起图形验证码
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
 # 商城界面购买月卡、创世结晶生成订单
