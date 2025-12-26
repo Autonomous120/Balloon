@@ -24,7 +24,7 @@ URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/luckycat/.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/createOrder.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/reportIapError.*
-URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/batchGetRedDot.*
+# URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/batchGetRedDot.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/h5log/log/.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/mihoyo-analysis/.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/site_push.*
@@ -33,3 +33,4 @@ URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/window/show.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/teenager/.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/admin/mi18n/.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/blockWord/.*
+URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/admin/mi18n/.*
