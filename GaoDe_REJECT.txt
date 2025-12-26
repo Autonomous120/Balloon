@@ -8,9 +8,9 @@ URL-REGEX,^https?://[^/]*\.amap\.com.*/activity/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/search_business/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/vasAdmin/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/shaolin/.*
-URL-REGEX,^https?+:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?://[^/]*\.amap\.com.*/updatable/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/log/upload.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/weather/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/message/notice/.*
 URL-REGEX,^https?://[^/]*\.amap\.com.*/theme/skin/.*
+URL-REGEX,^https?://[^/]*\.amap\.com.*/splash_screen.*
