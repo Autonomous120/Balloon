@@ -80,6 +80,7 @@ URL-REGEX,^https?://[^/]+.*/yy/room/.*
 DOMAIN-KEYWORD,baizhanlive
 DOMAIN-KEYWORD,unionyy
 DOMAIN-SUFFIX,sandai.com
+DOMAIN-SUFFIX,cc.163.com
 # Bilibili
 DOMAIN-SUFFIX,mall.bilibili.com
 DOMAIN-SUFFIX,pay.bilibili.com
@@ -318,3 +319,4 @@ DOMAIN-SUFFIX,mdjyllb.com
 DOMAIN-SUFFIX,huorongcn.com
 DOMAIN-SUFFIX,pqowdjioefobog.cyou
 DOMAIN-SUFFIX,apps-huorong.com.cn
+
