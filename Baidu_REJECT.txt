@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,author.baidu.com
 DOMAIN-KEYWORD,weidai
 DOMAIN-KEYWORD,duxiaoman
 DOMAIN-KEYWORD,duxiaomanfintech
+DOMAIN-KEYWORD,dashengVideo
 DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,paydxm.com
@@ -66,6 +67,9 @@ URL-REGEX,^https?+:\/\/pan\.baidu\.com\/act\/api\/activityentry
 URL-REGEX,^https?+:\/\/issuecdn\.baidupcs\.com\/issue\/netdisk\/guanggao\/
 URL-REGEX,^https?://[^/]+.*/dashengVideo.*
 URL-REGEX,^https?://[^/]*\.bdstatic\.com.*/tb/wise/hybrid-business-vip/.*
+URL-REGEX,^https?:\/\/\d{1,3}(\.\d{1,3}){3}\/domains\/resolve
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/tbvip.*
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/tb_vip.*
 IP-CIDR,120.232.148.75
 IP-CIDR,183.240.168.210
 IP-CIDR,163.177.159.142
