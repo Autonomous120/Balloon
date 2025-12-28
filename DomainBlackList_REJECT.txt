@@ -27,18 +27,6 @@ URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/v\d\/adv\/
 URL-REGEX,^https?+:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen
 URL-REGEX,^https?+:\/\/api-mifit.+?\.huami\.com\/discovery\/mi\/discovery\/.+?_ad\?
 URL-REGEX,^https?+:\/\/api\.yangkeduo\.com\/api\/cappuccino\/splash
-# 美团
-DOMAIN-SUFFIX,mtvod.meituan.net
-DOMAIN-SUFFIX,al-log.d.meituan.net
-DOMAIN-SUFFIX,flowplus.meituan.net
-DOMAIN-SUFFIX,ccpaccess-fin.meituan.com
-DOMAIN-SUFFIX,dreport.meituan.net
-DOMAIN-SUFFIX,meituan.httpdns.qcloud.com
-URL-REGEX,^https?://[^/]*\.meituan\.net.*/video/.*
-URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
-URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
-URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
-URL-REGEX,^https?+:\/\/s3plus\.meituan\.net\/.+?\/linglong\/.+?\.(?>gif|jpg|mp4)
 URL-REGEX,^https?+:\/\/api\.meipian\.me.+?advert
 # 什么值得买
 URL-REGEX,^https?+:\/\/api\.smzdm\.com\/v\d\/util\/loading
@@ -291,9 +279,9 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,rongnav.com
 DOMAIN-SUFFIX,ads.cup.com.cn
 # 小红书
-URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/.*
-URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/.*
-URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/.*
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/
+URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/
 # 钓鱼
 DOMAIN-SUFFIX,snipaste.buzz
 DOMAIN-SUFFIX,openvpn.app.link
@@ -321,4 +309,5 @@ DOMAIN-SUFFIX,mdjyllb.com
 DOMAIN-SUFFIX,huorongcn.com
 DOMAIN-SUFFIX,pqowdjioefobog.cyou
 DOMAIN-SUFFIX,apps-huorong.com.cn
+
 
