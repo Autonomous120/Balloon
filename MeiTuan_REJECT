@@ -9,11 +9,11 @@ URL-REGEX,^https?://[^/]*\.meituan\.net.*/novel/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/novel-prod/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/bizhorus/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/adunion/
-URL-REGEX,^https?://[^/]*\.meituan\.net.*/game/
+URL-REGEX,^https?://[^/]*\.meituan\.com.*/game/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/gameplus/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/mgcgameplus/
-URL-REGEX,^https?://[^/]*\.meituan\.net.*/playcenter/
-URL-REGEX,^https?://[^/]*\.meituan\.net.*/advertise/
+URL-REGEX,^https?://[^/]*\.meituan\.com.*/playcenter/
+URL-REGEX,^https?://[^/]*\.meituan\.com.*/advertise/
 URL-REGEX,^https?://httpdnsmultiapivip\.meituan\.com
 URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
 URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
