@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,flowplus.meituan.net
 DOMAIN-SUFFIX,ccpaccess-fin.meituan.com
 DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,meituan.httpdns.qcloud.com
+DOMAIN-SUFFIX,game.meituan.com
+# 可能与直播有关
+DOMAIN-SUFFIX,livehwc3.cn
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/video/
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/novel/
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/novel-prod/
@@ -15,13 +18,15 @@ URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/mgcgameplus/
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/playcenter/
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/advertise/
 URL-REGEX,^https?://httpdnsmultiapivip\.meituan\.com
-URL-REGEX,^https?+:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
-URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
-URL-REGEX,^https?+:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
-URL-REGEX,^https?+:\/\/s3plus\.meituan\.net\/.+?\/linglong\/.+?\.(?>gif|jpg|mp4)
+URL-REGEX,^https?:\/\/img\.meituan\.net\/(?>adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+?\.jpg
+URL-REGEX,^https?:\/\/p\d\.meituan\.net\/movie\/[A-Za-z0-9]+?\.jpg\?may_covertWebp
+URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+?\/linglong\/.+?\.(?>gif|jpg|mp4)
 # 美团借款
 DOMAIN-SUFFIX,cscanaltics.dper.com
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/csc/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/xyconsole/
 # 可能与付款有关，谨慎屏蔽
 DOMAIN-SUFFIX,npay.meituan.com
+# HTTPDNS
+URL-REGEX,^https?://dnspod\.meituan\.httpdns
