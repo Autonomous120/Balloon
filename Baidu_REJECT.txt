@@ -74,6 +74,9 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/LogService/
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/liveserver/
 URL-REGEX,^https?://[^/]*\.bdstatic\.com.*/logsync
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/getRmbLiveEnterEffectList
+# HTTPDNS
+URL-REGEX,^https?://httpdns\.baidu\.com.*/resolve
+URL-REGEX,^https?://httpdns\.baidubce\.com.*/resolve
 IP-CIDR,120.232.148.75
 IP-CIDR,183.240.168.210
 IP-CIDR,163.177.159.142
