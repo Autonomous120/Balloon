@@ -27,6 +27,8 @@ URL-REGEX,^https?:\/\/s3plus\.meituan\.net\/.+?\/linglong\/.+?\.(?>gif|jpg|mp4)
 DOMAIN-SUFFIX,cscanaltics.dper.com
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/csc/
 URL-REGEX,^https?://[^/]*\.meituan\.net.*/xyconsole/
+DOMAIN-SUFFIX,market-fin.meituan.com
+URL-REGEX,^https?://market-fin\.meituan\.com/ad/
 # 测试屏蔽
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,shark.dianping.com
