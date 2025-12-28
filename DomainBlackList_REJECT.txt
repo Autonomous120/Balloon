@@ -1,3 +1,5 @@
+# HTTPDNS
+URL-REGEX,^https?:\/\/dns\.weixin\.qq\.com\.cn\/
 # 其它
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,umengcloud.com
@@ -319,4 +321,3 @@ DOMAIN-SUFFIX,mdjyllb.com
 DOMAIN-SUFFIX,huorongcn.com
 DOMAIN-SUFFIX,pqowdjioefobog.cyou
 DOMAIN-SUFFIX,apps-huorong.com.cn
-
