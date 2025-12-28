@@ -32,4 +32,4 @@ URL-REGEX,^https?://[^/]*\.taobao\.com.*\.livexshow.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*\.interaction\.gateway\.live.*
 URL-REGEX,^https?://[^/]*\.taobao\.com.*\.mediaplatform\.live.*
 # HTTPDNS
-URL-REGEX,^https?://resolvers\-cn\.httpdns\.aliyuncs\.com
+URL-REGEX,^https?://resolvers-cn\.httpdns\.aliyuncs\.com
