@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,hlx.meituan.com
 DOMAIN-SUFFIX,catfront.dianping.com
 DOMAIN-SUFFIX,catdot.dianping.com
 DOMAIN-SUFFIX,tte.meituan.com
+DOMAIN-SUFFIX,jiaxiangxm.com
 # HTTPDNS
 URL-REGEX,^https?://dnspod\.meituan\.httpdns
 IP-CIDR,43.135.65.253
