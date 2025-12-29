@@ -5,8 +5,9 @@ DOMAIN-SUFFIX,ccpaccess-fin.meituan.com
 DOMAIN-SUFFIX,dreport.meituan.net
 DOMAIN-SUFFIX,meituan.httpdns.qcloud.com
 DOMAIN-SUFFIX,game.meituan.com
-DOMAIN-SUFFIX,beauty-hw-flv-live.meituan.net
 # 可能与直播有关
+DOMAIN-SUFFIX,beauty-hw-flv-live.meituan.net
+DOMAIN-SUFFIX,beauty-tx-flv-live.meituan.net
 DOMAIN-SUFFIX,livehwc3.cn
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/video/
 URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/novel/
@@ -34,6 +35,12 @@ DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,shark.dianping.com
 DOMAIN-SUFFIX,tec73.com
 DOMAIN-SUFFIX,ddplus.meituan.net
+# 可能与小游戏有关
+DOMAIN-SUFFIX,lx0.meituan.com
+DOMAIN-SUFFIX,hlx.meituan.com
+DOMAIN-SUFFIX,catfront.dianping.com
+DOMAIN-SUFFIX,catdot.dianping.com
+DOMAIN-SUFFIX,tte.meituan.com
 # HTTPDNS
 URL-REGEX,^https?://dnspod\.meituan\.httpdns
 IP-CIDR,43.135.65.253
