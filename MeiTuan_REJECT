@@ -35,13 +35,17 @@ DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,shark.dianping.com
 DOMAIN-SUFFIX,tec73.com
 DOMAIN-SUFFIX,ddplus.meituan.net
-# 可能与小游戏有关
+# 小游戏
+DOMAIN-SUFFIX,quanmin-game.com
 DOMAIN-SUFFIX,lx0.meituan.com
 DOMAIN-SUFFIX,hlx.meituan.com
 DOMAIN-SUFFIX,catfront.dianping.com
 DOMAIN-SUFFIX,catdot.dianping.com
 DOMAIN-SUFFIX,tte.meituan.com
 DOMAIN-SUFFIX,jiaxiangxm.com
+URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/linglong/
+URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/mgcgameicon/
+URL-REGEX,^https?://[^/]*\.meituan\.(?:net|com).*/mnpm-cdn/.*game
 # HTTPDNS
 URL-REGEX,^https?://dnspod\.meituan\.httpdns
 IP-CIDR,43.135.65.253
