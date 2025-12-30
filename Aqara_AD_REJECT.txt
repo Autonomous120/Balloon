@@ -2,5 +2,5 @@ DOMAIN-SUFFIX,track.aqara.cn
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,community.aqara.com
 DOMAIN,ohttp-relay1.fastly-edge.com
-URL-REGEX,"^https?://[^/]*\.aiot-rpc\.ankasa\.cn.*/vas/.*"
-URL-REGEX,"^https?://[^/]*\.aiot-rpc\.ankasa\.cn.*/banner/.*"
+URL-REGEX,^https?://[^/]*\.aiot-rpc\.ankasa\.cn.*/vas/
+URL-REGEX,^https?://[^/]*\.aiot-rpc\.ankasa\.cn.*/banner/
