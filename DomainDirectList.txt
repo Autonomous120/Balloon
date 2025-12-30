@@ -1,5 +1,4 @@
 # 强制直连的域名
-DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,synology.com
@@ -15,39 +14,31 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
-
 # 私有 IPv4
 IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
 IP-CIDR,192.168.2.0/24
-
 # 链路本地/回环/特殊保留
 IP-CIDR,0.0.0.0/8
 IP-CIDR,127.0.0.0/8
 IP-CIDR,169.254.0.0/16
 IP-CIDR,255.255.255.255/32
-
 # 多播
 IP-CIDR,224.0.0.0/4
-
 # IPv6
 IP-CIDR,::1/128
 IP-CIDR,fe80::/10
 IP-CIDR,fc00::/7
-
 # CGNAT（运营商 NAT）
 IP-CIDR,100.64.0.0/10
-
 # Benchmark/测试地址
 IP-CIDR,198.18.0.0/15
-
 # 协议保留/文档网段
 IP-CIDR,192.0.0.0/24
 IP-CIDR,192.0.2.0/24
 IP-CIDR,192.88.99.0/24
 IP-CIDR,198.51.100.0/24
 IP-CIDR,203.0.113.0/24
-
 # 国内流量全部直连
 GEOIP,cn
