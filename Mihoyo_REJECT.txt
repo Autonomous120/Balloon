@@ -19,8 +19,6 @@ DOMAIN-SUFFIX,data-abtest-api.mihoyo.com
 DOMAIN-SUFFIX,apm-api.mihoyo.com
 # ChatGPT认为可疑
 DOMAIN-SUFFIX,cl2009.com
-# 米游社签到界面拉起图形验证码
-URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/createVerification.*
 # 商城界面购买月卡、创世结晶生成订单
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/luckycat/.*
 URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/createOrder.*
@@ -32,7 +30,5 @@ URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/site_push.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/window/show.*
 # 未成年人提示
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/teenager/.*
-URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/admin/mi18n/.*
-URL-REGEX,^https?://[^/]*\.mihoyo\.com.*/admin/mi18n/.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/blockWord/.*
 URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/latest_version.*
