@@ -62,6 +62,12 @@ DOMAIN-SUFFIX,aqwtxq.com
 DOMAIN-SUFFIX,dingding.im
 DOMAIN-SUFFIX,niupilao.vip
 DOMAIN-SUFFIX,c3pool.org
+DOMAIN-SUFFIX,lovefi.top
+DOMAIN-SUFFIX,seclokantasi.com
+DOMAIN-SUFFIX,hrtrainup.com
+DOMAIN-SUFFIX,bleakishflight.info
+DOMAIN-SUFFIX,redafy.nl
+DOMAIN-SUFFIX,nextowave.online
 # 假Chrome、Google
 DOMAIN-SUFFIX,chrome.net
 DOMAIN-SUFFIX,chrome.org
