@@ -34,3 +34,5 @@ URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/latest_version
 # 测试
 DOMAIN-SUFFIX,cl2m.cn
 DOMAIN-SUFFIX,vod-license-m.volccdn.com
+DOMAIN-SUFFIX,vod-license-b.volccdn.com
+DOMAIN-SUFFIX,volccdn.com
