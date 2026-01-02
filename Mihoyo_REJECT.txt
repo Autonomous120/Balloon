@@ -34,4 +34,3 @@ URL-REGEX,^https?://[^/]*\.miyoushe\.com.*/latest_version
 # 测试
 DOMAIN-SUFFIX,cl2m.cn
 DOMAIN-SUFFIX,volccdn.com
-DOMAIN-SUFFIX,ssr.mihoyo.com
