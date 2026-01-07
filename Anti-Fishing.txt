@@ -68,6 +68,9 @@ DOMAIN-SUFFIX,hrtrainup.com
 DOMAIN-SUFFIX,bleakishflight.info
 DOMAIN-SUFFIX,redafy.nl
 DOMAIN-SUFFIX,nextowave.online
+# 银狐
+DOMAIN-KEYWORD,360ccm
+DOMAIN-KEYWORD,xiazaiabcd7
 # 假Chrome、Google
 DOMAIN-SUFFIX,chrome.net
 DOMAIN-SUFFIX,chrome.org
