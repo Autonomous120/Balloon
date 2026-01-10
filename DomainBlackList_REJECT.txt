@@ -48,7 +48,6 @@ DOMAIN-SUFFIX,vueh5.dsmxp.com
 DOMAIN-SUFFIX,image.dsmxp.com
 DOMAIN-SUFFIX,secu100.net
 # 短视频/直播
-DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,ql.njmapp.com
 DOMAIN-SUFFIX,huya.tv
@@ -283,3 +282,4 @@ DOMAIN-SUFFIX,crash.xiaohongshu.com
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/
+
