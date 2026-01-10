@@ -6,8 +6,6 @@ DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
 DOMAIN-SUFFIX,sdk-log-upload.mihoyo.com
 DOMAIN-SUFFIX,apm-log-upload.mihoyo.com
 DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com
-DOMAIN-SUFFIX,act-api-takumi.mihoyo.com
-DOMAIN-SUFFIX,act-api-takumi-static.mihoyo.com
 DOMAIN-SUFFIX,h5collector.mihoyo.com
 DOMAIN-SUFFIX,cnuspider.yuanshen.com
 DOMAIN-SUFFIX,uspider.yuanshen.com
