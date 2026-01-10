@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,shouyou.baidu.com
 DOMAIN-SUFFIX,mobile.baidu.com
 DOMAIN-SUFFIX,shouji.baidu.com
 DOMAIN-SUFFIX,juejin.baidu.com
-DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,tb.himg.baidu.com
 DOMAIN-SUFFIX,mssdk.volces.com
 DOMAIN-SUFFIX,gsp0.baidu.com
