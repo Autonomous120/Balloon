@@ -57,8 +57,6 @@ DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
@@ -282,4 +280,5 @@ DOMAIN-SUFFIX,crash.xiaohongshu.com
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/
+
 
