@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,bleakishflight.info
 DOMAIN-SUFFIX,redafy.nl
 DOMAIN-SUFFIX,nextowave.online
 DOMAIN-SUFFIX,llxhq.com
+DOMAIN-KEYWORD,zhuzhu009
 # 银狐
 DOMAIN-KEYWORD,360ccm
 DOMAIN-KEYWORD,xiazaiabcd7
