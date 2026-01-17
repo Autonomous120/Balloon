@@ -146,3 +146,5 @@ DOMAIN-KEYWORD,wp-wps
 DOMAIN-KEYWORD,wps-wp
 DOMAIN-KEYWORD,wpssoft
 DOMAIN-KEYWORD,on-wps
+# 假iCloud
+DOMAIN-SUFFIX,cno.lat
