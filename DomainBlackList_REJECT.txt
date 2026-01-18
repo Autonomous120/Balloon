@@ -267,7 +267,7 @@ DOMAIN-SUFFIX,maam.pingan.com.cn
 DOMAIN-SUFFIX,isps-api.pingan.com.cn
 DOMAIN-SUFFIX,padn-access.pa18.com
 DOMAIN-SUFFIX,hczlife-static.pingan.com.cn
-DOMAIN-SUFFIX,abc==
+DOMAIN-KEYWORD,abc==
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,21cn.com
@@ -280,5 +280,5 @@ DOMAIN-SUFFIX,crash.xiaohongshu.com
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/kolwallet/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/cash/
 URL-REGEX,^https?://[^/]*\.xiaohongshu\.com.*/redcoin/
-
-
+# 反诈误杀
+DOMAIN-SUFFIX,rustdesk.com
