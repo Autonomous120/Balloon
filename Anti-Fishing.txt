@@ -148,3 +148,5 @@ DOMAIN-KEYWORD,wpssoft
 DOMAIN-KEYWORD,on-wps
 # 假iCloud
 DOMAIN-SUFFIX,cno.lat
+# 假PotPlayer
+DOMAIN-KEYWORD,potplayercn
