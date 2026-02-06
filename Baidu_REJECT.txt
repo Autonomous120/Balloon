@@ -75,6 +75,7 @@ URL-REGEX,^https?://[^/]*\.baidu\.com.*/liveserver/
 URL-REGEX,^https?://[^/]*\.bdstatic\.com.*/logsync
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/getRmbLiveEnterEffectList
 URL-REGEX,^https?://[^/]*\.baidu\.com.*/tbmall/
+URL-REGEX,^https?://[^/]*\.baidu\.com.*/playserver/
 # HTTPDNS
 URL-REGEX,^https?://httpdns\.baidu\.com.*/resolve
 URL-REGEX,^https?://httpdns\.baidubce\.com.*/resolve
