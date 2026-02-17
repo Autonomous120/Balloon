@@ -150,3 +150,5 @@ DOMAIN-KEYWORD,on-wps
 DOMAIN-SUFFIX,cno.lat
 # 假PotPlayer
 DOMAIN-KEYWORD,potplayercn
+# 假远程桌面工具
+DOMAIN-SUFFIX,orayc.com
